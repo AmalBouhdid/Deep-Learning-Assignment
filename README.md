@@ -35,17 +35,6 @@ The datasets used in this project can be accessed here:
 Place the datasets in the appropriate locations specified in the notebooks, or update the paths accordingly.  
 
 ---
-
-## Google Drive Resources  
-
-All project files, including:  
-- **Datasets**: `TemperatureRainFall.csv` and `DeepLearningTask-1.7z`  
-- **Videos**: Explanations for Task 1 and Task 2  
-- **PDF Documentation**: Detailed project explanation  
-
-can be downloaded from Google Drive
-
----
 **We extend our sincere thanks to Professor ***Hammadi Nait-Charif***, our instructor for the Deep Learning module this semester. His exceptional teaching, continuous support, and insightful guidance have been instrumental in deepening our understanding of the subject and completing this project successfully.**
 
 
