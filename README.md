@@ -36,26 +36,6 @@ Place the datasets in the appropriate locations specified in the notebooks, or u
 
 ---
 
-## Video Explanations  
-
-We have provided detailed video explanations of the code for both tasks:  
-
-- **Task 1: Time Series Prediction**  
-  [Watch the Video]([#](https://drive.google.com/file/d/1N35cApKuyJMMv7Ar5HZI5rkiRb4aFLpu/view?t=6)) 
-
-- **Task 2: Image Classification**  
-  [Watch the Video]([#](https://drive.google.com/file/d/1_w0GiKacvmP4_yAdohQ8dScfFzwvcrxq/view?t=1)) 
-
-Both videos, along with the complete project files, can also be found on Google Drive.  
-
----
-
-## PDF Documentation  
-
-A comprehensive PDF file is included, containing all the explanations and steps taken in this project. You can find the PDF in the linked Google Drive folder.  
-
----
-
 ## Google Drive Resources  
 
 All project files, including:  
