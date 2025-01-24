@@ -27,7 +27,7 @@ This project was developed by **El Ouakhchachi Jaafar** and **Bouhdid Amal** as 
 ## Datasets  
 
 The datasets used in this project can be accessed here:  
-[Download Datasets](https://drive.google.com/drive/u/0/folders/19sdUaXdAt-9uIeDQCKvSrR_OiZq3KKOI)  
+[Download Datasets](https://drive.google.com/drive/u/0/folders/1pUxH4zjR52cx1nUG1Kb2Fyh4AFKlU_9Q)  
 
 - **Time Series Dataset**: `TemperatureRainFall.csv`  
 - **Image Dataset**: `DeepLearningTask-1.7z`  
@@ -43,8 +43,7 @@ All project files, including:
 - **Videos**: Explanations for Task 1 and Task 2  
 - **PDF Documentation**: Detailed project explanation  
 
-can be downloaded from the following Google Drive folder:  
-[Download All Files, Videos, and Documentation](https://drive.google.com/drive/u/0/folders/19sdUaXdAt-9uIeDQCKvSrR_OiZq3KKOI)  
+can be downloaded from Google Drive
 
 ---
 **We extend our sincere thanks to Professor ***Hammadi Nait-Charif***, our instructor for the Deep Learning module this semester. His exceptional teaching, continuous support, and insightful guidance have been instrumental in deepening our understanding of the subject and completing this project successfully.**
